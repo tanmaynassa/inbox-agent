@@ -1,0 +1,42 @@
+name: Poll and Classify Inbox
+
+on:
+  schedule:
+    # every 5 minutes - GitHub doesn't guarantee exact timing (can lag a
+    # few minutes under load), but this is the closest free option to
+    # real-time. See README for the honest tradeoff vs true push.
+    - cron: '*/5 * * * *'
+  workflow_dispatch: {}  # lets you trigger it manually from the Actions tab too
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # needed to commit the updated state file back
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install groq requests google-auth google-auth-oauthlib google-api-python-client
+
+      - name: Run poller
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GMAIL_CLIENT_ID: ${{ secrets.GMAIL_CLIENT_ID }}
+          GMAIL_CLIENT_SECRET: ${{ secrets.GMAIL_CLIENT_SECRET }}
+          GMAIL_REFRESH_TOKEN: ${{ secrets.GMAIL_REFRESH_TOKEN }}
+        run: python3 poll_and_classify.py
+
+      - name: Commit updated state
+        run: |
+          git config user.name "inbox-agent-bot"
+          git config user.email "actions@github.com"
+          git add state/
+          git diff --staged --quiet || git commit -m "Update state [skip ci]"
+          git push
