@@ -162,17 +162,22 @@ def run_poll():
             "sender": email["sender"],
             "action": d["action"],
             "reason": d["reason"],
+            "received_at": email["received_at"],
             "timestamp": datetime.now().isoformat(),
         }, today)
 
     if important_this_run:
         if len(important_this_run) == 1:
             email, reason = important_this_run[0]
-            msg = f"⚠️ Important email:\n\nFrom: {email['sender']}\nSubject: {email['subject']}\nWhy: {reason}"
+            msg = (f"⚠️ Important email:\n\n"
+                   f"From: {email['sender']}\n"
+                   f"Subject: {email['subject']}\n"
+                   f"Received: {email['received_at']}\n"
+                   f"Why: {reason}")
         else:
             lines = [f"⚠️ {len(important_this_run)} important emails:\n"]
             for email, reason in important_this_run:
-                lines.append(f"• {email['sender']}\n  {email['subject']}\n  {reason}")
+                lines.append(f"• {email['sender']}\n  {email['subject']}\n  Received: {email['received_at']}\n  {reason}")
             msg = "\n\n".join(lines)
         send_telegram(msg)
 

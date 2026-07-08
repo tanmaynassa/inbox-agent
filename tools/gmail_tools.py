@@ -123,12 +123,19 @@ def fetch_todays_emails(service) -> list:
         msg = service.users().messages().get(userId="me", id=ref["id"], format="full").execute()
         headers = {h["name"]: h["value"] for h in msg["payload"].get("headers", [])}
         body = _extract_body(msg["payload"])
+
+        # internalDate is Gmail's own record of when the message was received,
+        # in epoch milliseconds - more reliable than parsing the email's own
+        # "Date" header, which senders can set to anything
+        received_dt = datetime.fromtimestamp(int(msg["internalDate"]) / 1000)
+
         emails.append({
             "id": msg["id"],
             "subject": headers.get("Subject", "(no subject)"),
             "sender": headers.get("From", "(unknown sender)"),
             "snippet": msg.get("snippet", ""),
             "body": body[:1500],  # cap length - plenty for classification, keeps prompt small
+            "received_at": received_dt.strftime("%b %d, %I:%M %p"),  # e.g. "Jul 08, 03:23 PM"
         })
     return emails
 

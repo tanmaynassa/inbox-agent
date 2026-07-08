@@ -14,9 +14,10 @@ MODEL = "llama-3.3-70b-versatile"
 
 SUMMARY_PROMPT = """Write a short, friendly daily email summary for Tanmay based ONLY on
 the classified emails given below - do not invent or generalize about any email not listed.
-Group by important / junk / uncertain. For important emails, list sender + subject + why.
-For junk, just give a count. For uncertain, list sender + subject briefly so he can glance
-at them himself. Keep it tight - this is a Telegram message, not a report. Plain text only.
+Group by important / junk / uncertain. For important emails, list sender + subject + when it
+was received (received_at field, if present) + why. For junk, just give a count. For uncertain,
+list sender + subject briefly so he can glance at them himself. Keep it tight - this is a
+Telegram message, not a report. Plain text only.
 """
 
 
