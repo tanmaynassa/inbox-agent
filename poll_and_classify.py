@@ -51,20 +51,36 @@ TOOLS = [
 ]
 
 SYSTEM_PROMPT = """You are Tanmay's inbox triage agent, running frequently throughout the day
-(not just once). He is actively job hunting (Product Analyst / Business Analyst roles), so a
-missed recruiter or interview email is a real, costly mistake - worse than a junk email sitting
-labeled for a while.
+(not just once). He is actively job hunting (Product Analyst / Business Analyst roles) alongside
+his regular work and personal email.
 
-You'll be given a batch of NEW emails (subject, sender, snippet) that haven't been classified
-yet. For each one, decide:
-- "important": needs his attention/response soon (recruiter, interview, work escalation,
-  anything time-sensitive or personally addressed to him)
-- "junk": clearly promotional, newsletter, automated notification needing no action, spam
-- "uncertain": you are NOT confident which bucket this belongs in
+You'll be given a batch of NEW emails (subject, sender, and body text - READ THE BODY, don't
+just pattern-match on the subject line or sender name). For each one, decide:
 
-When unsure, ALWAYS choose "uncertain" rather than guessing. A generic-sounding email that
-MIGHT be a real recruiter template should be "uncertain", not "junk" - the cost of wrongly
-burying a real opportunity is much higher than leaving something unclassified for now.
+- "important": Tanmay needs to DO something soon - respond, schedule, attend, submit something -
+  OR a human is personally reaching out to him (not an automated system) - OR it's a confirmed,
+  scheduled event (an interview/call with an actual date/time stated IN THE BODY, verified by
+  you reading the body, not assumed from the subject line).
+
+- "junk": promotional emails, newsletters, algorithmic job-alert/job-matching notifications
+  (LinkedIn Job Alerts, Indeed job matches, Instahyre, Naukri, etc.) - these are unsolicited
+  system-generated suggestions, NOT responses to anything Tanmay did, regardless of whether
+  the subject mentions one job or ten. A single-job alert from an automated job board is just
+  as much junk as a "10 jobs matching your profile" digest - the FORMAT doesn't matter, only
+  whether a human is asking him to do something.
+
+- "uncertain": informational/FYI content that needs no action but isn't spam either - e.g. an
+  automated "we received your application" acknowledgment with NO next step mentioned, a LinkedIn
+  connection notification, or anything genuinely ambiguous. This is NOT a lower-confidence version
+  of "important" - it's specifically for things that don't need a star (no action pending) but
+  also don't belong being labeled junk (they're legitimate, just not urgent).
+
+Critical distinction that matters most: an application ACKNOWLEDGMENT (e.g. "thank you for
+applying", no next step stated) is "uncertain", NOT "important" - Tanmay doesn't need to do
+anything in response to it. Only mark something "important" if there's a real pending action
+or a genuinely scheduled event you can verify in the body text.
+
+When you're not sure, choose "uncertain" rather than guessing "junk" or "important".
 
 Call classify_and_act with a decision for every email given - no skipping any.
 """
@@ -72,7 +88,7 @@ Call classify_and_act with a decision for every email given - no skipping any.
 
 def classify_batch(client, emails: list) -> list:
     """Returns list of {id, action, reason} for the given emails."""
-    compact = [{"id": e["id"], "subject": e["subject"], "sender": e["sender"], "snippet": e["snippet"]} for e in emails]
+    compact = [{"id": e["id"], "subject": e["subject"], "sender": e["sender"], "body": e["body"][:800]} for e in emails]
     messages = [
         {"role": "system", "content": SYSTEM_PROMPT},
         {"role": "user", "content": f"New emails to classify:\n{json.dumps(compact, indent=2)}"}
@@ -129,16 +145,13 @@ def run_poll():
     decisions = classify_batch(client, new_emails)
     emails_by_id = {e["id"]: e for e in new_emails}
 
+    important_this_run = []  # collected and sent as ONE message, not one ping per email
+
     for d in decisions:
         email = emails_by_id[d["id"]]
         if d["action"] == "important":
             star_email(service, d["id"])
-            send_telegram(
-                f"⚠️ Important email:\n\n"
-                f"From: {email['sender']}\n"
-                f"Subject: {email['subject']}\n"
-                f"Why: {d['reason']}"
-            )
+            important_this_run.append((email, d["reason"]))
         elif d["action"] == "junk":
             label_as_spam(service, d["id"])
         # uncertain -> no action
@@ -151,6 +164,17 @@ def run_poll():
             "reason": d["reason"],
             "timestamp": datetime.now().isoformat(),
         }, today)
+
+    if important_this_run:
+        if len(important_this_run) == 1:
+            email, reason = important_this_run[0]
+            msg = f"⚠️ Important email:\n\nFrom: {email['sender']}\nSubject: {email['subject']}\nWhy: {reason}"
+        else:
+            lines = [f"⚠️ {len(important_this_run)} important emails:\n"]
+            for email, reason in important_this_run:
+                lines.append(f"• {email['sender']}\n  {email['subject']}\n  {reason}")
+            msg = "\n\n".join(lines)
+        send_telegram(msg)
 
     print(f"Processed {len(decisions)} email(s).")
 
