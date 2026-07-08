@@ -1,0 +1,154 @@
+[
+  {
+    "id": "19f422489e7515e5",
+    "subject": "Thank You for Applying at StoneX",
+    "sender": "\"StoneX @ icims\" <stonex+autoreply@talent.icims.com>",
+    "action": "uncertain",
+    "reason": "This is an automated acknowledgment of Tanmay's job application with no next steps mentioned.",
+    "timestamp": "2026-07-08T15:23:02.175871"
+  },
+  {
+    "id": "19f422198e4f28e0",
+    "subject": "Data Analyst at Dentira. 20 more business analyst jobs in Bengaluru, Karnataka",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert with multiple job listings.",
+    "timestamp": "2026-07-08T15:23:02.418078"
+  },
+  {
+    "id": "19f419803ab50523",
+    "subject": "10+ Jobs Matching Your Profile",
+    "sender": "\"hirist.com\" <info@jobfeed.hirist.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert with multiple job listings.",
+    "timestamp": "2026-07-08T15:23:02.681544"
+  },
+  {
+    "id": "19f417de1d586f73",
+    "subject": "New jobs similar to Business Analyst at Purplle.com",
+    "sender": "LinkedIn Job Recommendations <jobs-noreply@linkedin.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert with multiple job listings.",
+    "timestamp": "2026-07-08T15:23:02.931311"
+  },
+  {
+    "id": "19f41423b34fa42e",
+    "subject": "SAP FICO Business Analyst at Yoda Technologies Pty Ltd. 29 more product analyst jobs in India",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert with multiple job listings.",
+    "timestamp": "2026-07-08T15:23:03.177707"
+  },
+  {
+    "id": "19f410ff7aac8c88",
+    "subject": "You have an invitation \u2709\ufe0f",
+    "sender": "DEBRUP MUKHERJEE <invitations@linkedin.com>",
+    "action": "uncertain",
+    "reason": "This is a LinkedIn connection invitation with no urgent action required.",
+    "timestamp": "2026-07-08T15:23:03.178056"
+  },
+  {
+    "id": "19f40eebcb9415c6",
+    "subject": "SAP FICO Business Analyst at Yoda Technologies Pty Ltd. 11 more product analyst jobs in Remote",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert with multiple job listings.",
+    "timestamp": "2026-07-08T15:23:03.447425"
+  },
+  {
+    "id": "19f40d1b611e92d7",
+    "subject": "Senior Business Systems Analyst at HealthEdge. 19 more data analyst jobs in Bangalore City, Bengaluru, Karnataka",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert with multiple job listings.",
+    "timestamp": "2026-07-08T15:23:03.695386"
+  },
+  {
+    "id": "19f40cd3c7d948f2",
+    "subject": "Associate Analyst - Finalta at McKinsey & Company. 21 more product analyst jobs in Gurugram, Haryana",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert with multiple job listings.",
+    "timestamp": "2026-07-08T15:23:03.968560"
+  },
+  {
+    "id": "19f40a21dc0886a2",
+    "subject": "Hritika accepted your invitation, explore their network",
+    "sender": "Hritika Manish Patil via LinkedIn <invitations@linkedin.com>",
+    "action": "uncertain",
+    "reason": "This is a LinkedIn connection acceptance notification with no urgent action required.",
+    "timestamp": "2026-07-08T15:23:03.968995"
+  },
+  {
+    "id": "19f406aaf43d896c",
+    "subject": "Opening for Solutions Delivery Manager at Vulqan",
+    "sender": "<somya.singhal@intelene.com>",
+    "action": "important",
+    "reason": "This email is a personal message from a recruiter with a job opportunity and requires a response.",
+    "timestamp": "2026-07-08T15:23:04.130278"
+  },
+  {
+    "id": "19f404fd45e22657",
+    "subject": "Re:  Introductory Call | Indus Insights - 09th July 2026",
+    "sender": "Indus Insights\tRecruitment <recruitment@indusinsights.com>",
+    "action": "important",
+    "reason": "This email is a reminder for an introductory call and requires Tanmay's attendance.",
+    "timestamp": "2026-07-08T15:23:04.293313"
+  },
+  {
+    "id": "19f404455756f078",
+    "subject": "Job | Data Analyst at Indium Software (Hyderabad)",
+    "sender": "Indium Software Careers <noreply@instahyre.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert with a single job listing.",
+    "timestamp": "2026-07-08T15:23:04.585189"
+  },
+  {
+    "id": "19f4037f2cad2912",
+    "subject": "Research Analyst at Vyansa intelligence. 19 more product analyst jobs in Noida, Uttar Pradesh",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert with multiple job listings.",
+    "timestamp": "2026-07-08T15:23:04.872113"
+  },
+  {
+    "id": "19f40343eac666ee",
+    "subject": "Product Analyst at GobbleCube",
+    "sender": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert with a single job listing.",
+    "timestamp": "2026-07-08T15:23:05.145749"
+  },
+  {
+    "id": "19f400fb8b9663dd",
+    "subject": "Your application for 107733 Data Analyst (Evergreen) at Gartner",
+    "sender": "Gartner@myworkday.com",
+    "action": "uncertain",
+    "reason": "This email is an acknowledgment of Tanmay's job application with no next steps mentioned.",
+    "timestamp": "2026-07-08T15:23:05.146271"
+  },
+  {
+    "id": "19f3fc6672d13c31",
+    "subject": "Analyst-Data Analytics at American Express",
+    "sender": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert with a single job listing.",
+    "timestamp": "2026-07-08T15:23:05.399488"
+  },
+  {
+    "id": "19f3f996bb2b96cf",
+    "subject": "Analyst - Operation @ Alight",
+    "sender": "Indeed <donotreply@match.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert with a single job listing.",
+    "timestamp": "2026-07-08T15:23:05.663478"
+  },
+  {
+    "id": "19f3f343d4a13390",
+    "subject": "New job opportunities at Honeywell",
+    "sender": "Human Resources <noreply@honeywell.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert with multiple job listings.",
+    "timestamp": "2026-07-08T15:23:05.888901"
+  }
+]
