@@ -168,5 +168,41 @@
     "reason": "This email is an informational message from HelloPM, providing a recording of a counselling session and offering a 1:1 call with a mentor, but it does not require any immediate action from Tanmay.",
     "received_at": "Jul 08, 03:33 PM",
     "timestamp": "2026-07-08T15:45:00.588900"
+  },
+  {
+    "id": "19f43256b457adcb",
+    "subject": "Data Analyst at Dentira. 18 more data analyst jobs in Bengaluru, Karnataka",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Indeed.",
+    "received_at": "Jul 08, 07:12 PM",
+    "timestamp": "2026-07-08T19:40:20.107552"
+  },
+  {
+    "id": "19f4322a807869bc",
+    "subject": "Data Analyst at Dentira. 22 more product analyst jobs in Bengaluru, Karnataka",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Indeed.",
+    "received_at": "Jul 08, 07:09 PM",
+    "timestamp": "2026-07-08T19:40:20.363875"
+  },
+  {
+    "id": "19f42ec9eb34ddad",
+    "subject": "SAP FICO Business Analyst at Yoda Technologies Pty Ltd. 27 more product analyst jobs",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Indeed.",
+    "received_at": "Jul 08, 06:10 PM",
+    "timestamp": "2026-07-08T19:40:20.612579"
+  },
+  {
+    "id": "19f42e7963a07bab",
+    "subject": "BUSINESS ANALYST at NeverOwned India. 20 more data analyst jobs in Paschim Vihar, Delhi, Delhi",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Indeed.",
+    "received_at": "Jul 08, 06:04 PM",
+    "timestamp": "2026-07-08T19:40:20.859352"
   }
 ]
