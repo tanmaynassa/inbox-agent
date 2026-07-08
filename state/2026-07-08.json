@@ -150,5 +150,23 @@
     "action": "junk",
     "reason": "This is an automated job alert with multiple job listings.",
     "timestamp": "2026-07-08T15:23:05.888901"
+  },
+  {
+    "id": "19f4267330413d0b",
+    "subject": "Senior Business Analyst at MasORange. 20 more data analyst jobs in Gurugram, Haryana",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Indeed, which is unsolicited and does not require any action from Tanmay.",
+    "received_at": "Jul 08, 03:44 PM",
+    "timestamp": "2026-07-08T15:45:00.588363"
+  },
+  {
+    "id": "19f425d038dd74ce",
+    "subject": "\ud83d\ude80 Book Your Personalized 1:1 Call with a HelloPM Mentor",
+    "sender": "HelloPM <info@hellopm.co>",
+    "action": "uncertain",
+    "reason": "This email is an informational message from HelloPM, providing a recording of a counselling session and offering a 1:1 call with a mentor, but it does not require any immediate action from Tanmay.",
+    "received_at": "Jul 08, 03:33 PM",
+    "timestamp": "2026-07-08T15:45:00.588900"
   }
 ]
