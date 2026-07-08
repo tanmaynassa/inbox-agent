@@ -204,5 +204,14 @@
     "reason": "This is an automated job alert from Indeed.",
     "received_at": "Jul 08, 06:04 PM",
     "timestamp": "2026-07-08T19:40:20.859352"
+  },
+  {
+    "id": "19f438897db61b66",
+    "subject": "Associate Technical Product Manager at Levi Strauss & Co. 9 more associate product manager jobs in Bengaluru, Karnataka",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Indeed, which is unsolicited and system-generated.",
+    "received_at": "Jul 08, 09:00 PM",
+    "timestamp": "2026-07-08T21:52:46.512430"
   }
 ]
