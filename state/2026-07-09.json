@@ -223,5 +223,14 @@
     "reason": "This is another automated job alert from Indeed, which is also unsolicited and does not require any action from Tanmay.",
     "received_at": "Jul 09, 06:23 PM",
     "timestamp": "2026-07-09T20:05:47.717131"
+  },
+  {
+    "id": "19f488d98a0f4dc6",
+    "subject": "Data Analyst at Dentira. 19 more data analyst jobs in Bengaluru, Karnataka",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Indeed, which is unsolicited and system-generated.",
+    "received_at": "Jul 09, 08:24 PM",
+    "timestamp": "2026-07-09T21:40:10.629342"
   }
 ]
