@@ -70,5 +70,59 @@
     "reason": "The email body is empty, so it's unclear what the email is about.",
     "received_at": "Jul 09, 05:02 AM",
     "timestamp": "2026-07-09T07:54:34.995657"
+  },
+  {
+    "id": "19f4651fb839dc53",
+    "subject": "Soft Skills Completion",
+    "sender": "\"G\u00e9sum\u00e9\" <noreply@gesume.com>",
+    "action": "uncertain",
+    "reason": "The email is an automated message from G\u00e9s\u00fcm\u00e9, a networking and hiring platform, and does not require any immediate action from Tanmay.",
+    "received_at": "Jul 09, 10:00 AM",
+    "timestamp": "2026-07-09T10:50:23.578065"
+  },
+  {
+    "id": "19f464fcfbe02447",
+    "subject": "Associate Analyst - Finalta at McKinsey & Company. 21 more product analyst jobs in Gurugram, Haryana",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "The email is an automated job alert from Indeed, and it does not require any action from Tanmay.",
+    "received_at": "Jul 09, 09:57 AM",
+    "timestamp": "2026-07-09T10:50:23.929642"
+  },
+  {
+    "id": "19f4649c5c9db17c",
+    "subject": "SAP FICO Business Analyst at Yoda Technologies Pty Ltd. 29 more product analyst jobs in India",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "The email is an automated job alert from Indeed, and it does not require any action from Tanmay.",
+    "received_at": "Jul 09, 09:51 AM",
+    "timestamp": "2026-07-09T10:50:24.269438"
+  },
+  {
+    "id": "19f463654531b11e",
+    "subject": "Analyst , Performance at MRSOOL | \u0645\u0631\u0633\u0648\u0644",
+    "sender": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+    "action": "junk",
+    "reason": "The email is an automated job alert from LinkedIn, and it does not require any action from Tanmay.",
+    "received_at": "Jul 09, 09:29 AM",
+    "timestamp": "2026-07-09T10:50:24.590802"
+  },
+  {
+    "id": "19f46260f8917657",
+    "subject": "SAP FICO Business Analyst at Yoda Technologies Pty Ltd. 10 more product analyst jobs in Remote",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "The email is an automated job alert from Indeed, and it does not require any action from Tanmay.",
+    "received_at": "Jul 09, 09:12 AM",
+    "timestamp": "2026-07-09T10:50:24.905557"
+  },
+  {
+    "id": "19f4614b08cbd6b6",
+    "subject": "Product Analyst at Planview Incorporated. 18 more data analyst jobs in Bangalore City, Bengaluru, Karnataka",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "The email is an automated job alert from Indeed, and it does not require any action from Tanmay.",
+    "received_at": "Jul 09, 08:53 AM",
+    "timestamp": "2026-07-09T10:50:25.260793"
   }
 ]
