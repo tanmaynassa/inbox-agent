@@ -187,5 +187,23 @@
     "reason": "Hardik has sent a personal message to Tanmay, requiring a response.",
     "received_at": "Jul 09, 02:31 PM",
     "timestamp": "2026-07-09T16:15:26.881820"
+  },
+  {
+    "id": "19f47fcd8fb9445b",
+    "subject": "MTP Digest: Your weekly Mind the Product round up",
+    "sender": "Mind the Product <team@mindtheproduct.com>",
+    "action": "junk",
+    "reason": "The email is a weekly digest from Mind the Product and does not require any action from Tanmay.",
+    "received_at": "Jul 09, 05:46 PM",
+    "timestamp": "2026-07-09T18:13:05.482967"
+  },
+  {
+    "id": "19f47e97f4effddb",
+    "subject": "SAP FICO Business Analyst at Yoda Technologies Pty Ltd. 29 more product analyst jobs",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "The email is an automated job alert from Indeed and does not require any action from Tanmay.",
+    "received_at": "Jul 09, 05:25 PM",
+    "timestamp": "2026-07-09T18:13:05.754661"
   }
 ]
