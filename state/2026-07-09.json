@@ -7,5 +7,68 @@
     "reason": "This is an automated job alert from LinkedIn, which is unsolicited and system-generated.",
     "received_at": "Jul 09, 03:29 AM",
     "timestamp": "2026-07-09T04:14:00.773462"
+  },
+  {
+    "id": "19f45c875752231c",
+    "subject": "Associate-Digital Product Management at American Express",
+    "sender": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from LinkedIn.",
+    "received_at": "Jul 09, 07:29 AM",
+    "timestamp": "2026-07-09T07:54:33.839610"
+  },
+  {
+    "id": "19f45c2e4e1db338",
+    "subject": "Decision Analyst at Barclays. 19 more product analyst jobs in Noida, Uttar Pradesh",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Indeed.",
+    "received_at": "Jul 09, 07:23 AM",
+    "timestamp": "2026-07-09T07:54:34.127166"
+  },
+  {
+    "id": "19f45a8b00cdcd33",
+    "subject": "Re: Opening for Solutions Delivery Manager at Vulqan",
+    "sender": "Tanmay Nassa <tanmay.nassa.work@gmail.com>",
+    "action": "important",
+    "reason": "This email is a personal response from someone regarding a job opening.",
+    "received_at": "Jul 09, 06:55 AM",
+    "timestamp": "2026-07-09T07:54:34.284730"
+  },
+  {
+    "id": "19f45809826b8128",
+    "subject": "A Quick question from CareersCopilot.in & get upto 100% off",
+    "sender": "Contact CareersCopilot <contactus@careerscopilot.in>",
+    "action": "junk",
+    "reason": "This email is a promotional message from CareersCopilot.",
+    "received_at": "Jul 09, 06:11 AM",
+    "timestamp": "2026-07-09T07:54:34.509436"
+  },
+  {
+    "id": "19f455a94e878db6",
+    "subject": "Analyst , Performance at MRSOOL | \u0645\u0631\u0633\u0648\u0644",
+    "sender": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from LinkedIn.",
+    "received_at": "Jul 09, 05:29 AM",
+    "timestamp": "2026-07-09T07:54:34.767870"
+  },
+  {
+    "id": "19f454b81fc23fea",
+    "subject": "By Sunday, your 1st AI product can be live",
+    "sender": "Ankit from HelloPM <info@hellopm.co>",
+    "action": "junk",
+    "reason": "This email is a promotional message from HelloPM.",
+    "received_at": "Jul 09, 05:13 AM",
+    "timestamp": "2026-07-09T07:54:34.995238"
+  },
+  {
+    "id": "19f45411fe54c3f9",
+    "subject": "Update: Confirm your application to discover what makes a job profile stand out",
+    "sender": "Coding Ninjas Job Bootcamp <hello@careercamp.codingninjas.com>",
+    "action": "uncertain",
+    "reason": "The email body is empty, so it's unclear what the email is about.",
+    "received_at": "Jul 09, 05:02 AM",
+    "timestamp": "2026-07-09T07:54:34.995657"
   }
 ]
