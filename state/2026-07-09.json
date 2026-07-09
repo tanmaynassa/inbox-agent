@@ -124,5 +124,32 @@
     "reason": "The email is an automated job alert from Indeed, and it does not require any action from Tanmay.",
     "received_at": "Jul 09, 08:53 AM",
     "timestamp": "2026-07-09T10:50:25.260793"
+  },
+  {
+    "id": "19f47123b80d941a",
+    "subject": "Japkirat Singh accepted your invitation, explore their network",
+    "sender": "Japkirat Singh Lamba via LinkedIn <invitations@linkedin.com>",
+    "action": "uncertain",
+    "reason": "This is an automated notification about someone accepting Tanmay's invitation on LinkedIn, no action is required from Tanmay.",
+    "received_at": "Jul 09, 01:30 PM",
+    "timestamp": "2026-07-09T13:39:36.312409"
+  },
+  {
+    "id": "19f47052fc2fdd14",
+    "subject": "The newest ways teams are scaling smarter",
+    "sender": "Pendo <pendo@pendo.io>",
+    "action": "junk",
+    "reason": "This is a promotional email from Pendo, it's not related to any action Tanmay needs to take.",
+    "received_at": "Jul 09, 01:15 PM",
+    "timestamp": "2026-07-09T13:39:36.656951"
+  },
+  {
+    "id": "19f46a4529398b54",
+    "subject": "Agam accepted your invitation, explore their network",
+    "sender": "Agam jain via LinkedIn <invitations@linkedin.com>",
+    "action": "uncertain",
+    "reason": "This is an automated notification about someone accepting Tanmay's invitation on LinkedIn, no action is required from Tanmay.",
+    "received_at": "Jul 09, 11:30 AM",
+    "timestamp": "2026-07-09T13:39:36.657398"
   }
 ]
