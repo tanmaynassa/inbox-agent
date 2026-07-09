@@ -151,5 +151,41 @@
     "reason": "This is an automated notification about someone accepting Tanmay's invitation on LinkedIn, no action is required from Tanmay.",
     "received_at": "Jul 09, 11:30 AM",
     "timestamp": "2026-07-09T13:39:36.657398"
+  },
+  {
+    "id": "19f479913c553549",
+    "subject": "Analyst-Data Analytics at American Express. 21 more data analyst jobs in Gurugram, Haryana",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Indeed.",
+    "received_at": "Jul 09, 03:57 PM",
+    "timestamp": "2026-07-09T16:15:26.391064"
+  },
+  {
+    "id": "19f478015c665b64",
+    "subject": "Nishant accepted your invitation, explore their network",
+    "sender": "Nishant Dixit via LinkedIn <invitations@linkedin.com>",
+    "action": "uncertain",
+    "reason": "This is a LinkedIn connection notification, but it doesn't require any action from Tanmay.",
+    "received_at": "Jul 09, 03:30 PM",
+    "timestamp": "2026-07-09T16:15:26.391532"
+  },
+  {
+    "id": "19f47777f5d52f33",
+    "subject": "Associate Product Analyst at Sharpsell.ai. 19 more business analyst jobs in Bengaluru, Karnataka",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is another automated job alert from Indeed.",
+    "received_at": "Jul 09, 03:20 PM",
+    "timestamp": "2026-07-09T16:15:26.693748"
+  },
+  {
+    "id": "19f474a7dedcecd6",
+    "subject": "Hardik just messaged you",
+    "sender": "Hardik Panchal via LinkedIn <messaging-digest-noreply@linkedin.com>",
+    "action": "important",
+    "reason": "Hardik has sent a personal message to Tanmay, requiring a response.",
+    "received_at": "Jul 09, 02:31 PM",
+    "timestamp": "2026-07-09T16:15:26.881820"
   }
 ]
