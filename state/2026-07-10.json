@@ -142,5 +142,23 @@
     "reason": "This is an automated job alert from Indeed.",
     "received_at": "Jul 10, 08:16 AM",
     "timestamp": "2026-07-10T10:40:37.810427"
+  },
+  {
+    "id": "19f4bcf5674885a7",
+    "subject": "10+ Jobs Matching Your Profile",
+    "sender": "\"hirist.com\" <info@jobfeed.hirist.com>",
+    "action": "junk",
+    "reason": "The email is an automated job matching notification with no personal message or request for action.",
+    "received_at": "Jul 10, 11:35 AM",
+    "timestamp": "2026-07-10T12:58:27.616653"
+  },
+  {
+    "id": "19f4bc75492724bf",
+    "subject": "SAP FICO Business Analyst at Yoda Technologies Pty Ltd. 29 more product analyst jobs in India",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "The email is an automated job alert with a list of job openings, but no human is personally reaching out to Tanmay, and there is no confirmed scheduled event.",
+    "received_at": "Jul 10, 11:26 AM",
+    "timestamp": "2026-07-10T12:58:27.918547"
   }
 ]
