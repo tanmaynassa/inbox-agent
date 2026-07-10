@@ -97,5 +97,50 @@
     "reason": "The email is an automated job alert and does not require any action from Tanmay.",
     "received_at": "Jul 10, 05:17 AM",
     "timestamp": "2026-07-10T07:50:24.508898"
+  },
+  {
+    "id": "19f4b828c5da9249",
+    "subject": "Product Analyst at Planview Incorporated. 20 more data analyst jobs in Bangalore City, Bengaluru, Karnataka",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Indeed.",
+    "received_at": "Jul 10, 10:11 AM",
+    "timestamp": "2026-07-10T10:40:36.915132"
+  },
+  {
+    "id": "19f4b5ca93b96c81",
+    "subject": "Product Analyst at Planview",
+    "sender": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from LinkedIn.",
+    "received_at": "Jul 10, 09:29 AM",
+    "timestamp": "2026-07-10T10:40:37.142647"
+  },
+  {
+    "id": "19f4b4063d628c0f",
+    "subject": "SAP FICO Business Analyst at Yoda Technologies Pty Ltd. 16 more product analyst jobs in Remote",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Indeed.",
+    "received_at": "Jul 10, 08:58 AM",
+    "timestamp": "2026-07-10T10:40:37.402513"
+  },
+  {
+    "id": "19f4b25d2f44bb48",
+    "subject": "Ujjwal just messaged you",
+    "sender": "Ujjwal Ranjan via LinkedIn <messaging-digest-noreply@linkedin.com>",
+    "action": "important",
+    "reason": "Ujjwal has personally messaged Tanmay on LinkedIn.",
+    "received_at": "Jul 10, 08:29 AM",
+    "timestamp": "2026-07-10T10:40:37.566278"
+  },
+  {
+    "id": "19f4b1986b5f1596",
+    "subject": "Business Analyst at Saxo Bank. 22 more product analyst jobs in Gurugram, Haryana",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Indeed.",
+    "received_at": "Jul 10, 08:16 AM",
+    "timestamp": "2026-07-10T10:40:37.810427"
   }
 ]
