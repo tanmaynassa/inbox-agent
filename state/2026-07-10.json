@@ -160,5 +160,14 @@
     "reason": "The email is an automated job alert with a list of job openings, but no human is personally reaching out to Tanmay, and there is no confirmed scheduled event.",
     "received_at": "Jul 10, 11:26 AM",
     "timestamp": "2026-07-10T12:58:27.918547"
+  },
+  {
+    "id": "19f4ca7e12c7dd9f",
+    "subject": "Associate Product Analyst at Sharpsell.ai. 20 more business analyst jobs in Bengaluru, Karnataka",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Indeed, which is unsolicited and system-generated.",
+    "received_at": "Jul 10, 03:31 PM",
+    "timestamp": "2026-07-10T15:34:44.671495"
   }
 ]
