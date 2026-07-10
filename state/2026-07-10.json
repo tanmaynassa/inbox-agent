@@ -214,5 +214,14 @@
     "reason": "This is a LinkedIn connection invitation, which is not junk but does not require immediate action.",
     "received_at": "Jul 10, 05:30 PM",
     "timestamp": "2026-07-10T18:56:44.624338"
+  },
+  {
+    "id": "19f4d9f55369ed9e",
+    "subject": "Associate Product Analyst at Sharpsell.ai. 11 more associate product manager jobs in Bengaluru, Karnataka",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Indeed, which is unsolicited and system-generated.",
+    "received_at": "Jul 10, 08:01 PM",
+    "timestamp": "2026-07-10T20:24:16.333147"
   }
 ]
