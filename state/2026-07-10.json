@@ -16,5 +16,86 @@
     "reason": "This is an automated notification from Naukri with no specific action required.",
     "received_at": "Jul 10, 01:06 AM",
     "timestamp": "2026-07-10T04:08:27.311912"
+  },
+  {
+    "id": "19f4b000d0830a59",
+    "subject": "I need your help today Tanmay",
+    "sender": "Ankit Shukla - HelloPM <info@hellopm.co>",
+    "action": "junk",
+    "reason": "The email is promotional and does not require any action from Tanmay.",
+    "received_at": "Jul 10, 07:48 AM",
+    "timestamp": "2026-07-10T07:50:22.727237"
+  },
+  {
+    "id": "19f4af52fb6710da",
+    "subject": "Tanmay, stop collecting certificates. Start building AI skills.",
+    "sender": "Tamanna Yadav <tamanna.yadav@newsletters.analyticsvidhya.com>",
+    "action": "junk",
+    "reason": "The email is promotional and does not require any action from Tanmay.",
+    "received_at": "Jul 10, 07:36 AM",
+    "timestamp": "2026-07-10T07:50:22.961009"
+  },
+  {
+    "id": "19f4aeecd995d5ef",
+    "subject": "Analyst-Data Analytics at American Express",
+    "sender": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+    "action": "junk",
+    "reason": "The email is an automated job alert and does not require any action from Tanmay.",
+    "received_at": "Jul 10, 07:29 AM",
+    "timestamp": "2026-07-10T07:50:23.202139"
+  },
+  {
+    "id": "19f4ac1dce242062",
+    "subject": "Invitation from an unknown sender: Interview || R3 || UnifyApps @ Sat Jul 11, 2026 9:15am - 9:30am (IST) (tanmay.nassa.work@gmail.com)",
+    "sender": "Artisha Beniwal <artisha.beniwal@unifyapps.com>",
+    "action": "important",
+    "reason": "The email is an invitation for an interview and requires Tanmay to take action.",
+    "received_at": "Jul 10, 06:40 AM",
+    "timestamp": "2026-07-10T07:50:23.355021"
+  },
+  {
+    "id": "19f4aa213f0b1fab",
+    "subject": "\u2709\ufe0f Job | Hiring for Business Analyst in Delhi / NCR",
+    "sender": "Idam Natural Wellness <aditi.rawatb25lZ3VhcmRpYW4uaW4=@naukri.com>",
+    "action": "junk",
+    "reason": "The email is promotional and does not require any action from Tanmay.",
+    "received_at": "Jul 10, 06:06 AM",
+    "timestamp": "2026-07-10T07:50:23.732221"
+  },
+  {
+    "id": "19f4a9a59a728f7d",
+    "subject": "AIRBUS - Your application status has been updated",
+    "sender": "\"Airbus Human Resources (Do Not Reply)\" <ag@myworkday.com>",
+    "action": "uncertain",
+    "reason": "The email is an update on Tanmay's application status, but it does not require any action from him.",
+    "received_at": "Jul 10, 05:57 AM",
+    "timestamp": "2026-07-10T07:50:23.732466"
+  },
+  {
+    "id": "19f4a93da7d60bb7",
+    "subject": "Build your 1st AI product in 3 evenings",
+    "sender": "Ankit from HelloPM <info@hellopm.co>",
+    "action": "junk",
+    "reason": "The email is promotional and does not require any action from Tanmay.",
+    "received_at": "Jul 10, 05:50 AM",
+    "timestamp": "2026-07-10T07:50:24.014548"
+  },
+  {
+    "id": "19f4a80eeb6f9f52",
+    "subject": "Product Analyst at Rocket Learning",
+    "sender": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+    "action": "junk",
+    "reason": "The email is an automated job alert and does not require any action from Tanmay.",
+    "received_at": "Jul 10, 05:29 AM",
+    "timestamp": "2026-07-10T07:50:24.258023"
+  },
+  {
+    "id": "19f4a757104864ee",
+    "subject": "Decision Analyst at Barclays. 19 more product analyst jobs in Noida, Uttar Pradesh",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "The email is an automated job alert and does not require any action from Tanmay.",
+    "received_at": "Jul 10, 05:17 AM",
+    "timestamp": "2026-07-10T07:50:24.508898"
   }
 ]
