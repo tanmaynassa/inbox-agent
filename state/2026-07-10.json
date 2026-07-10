@@ -187,5 +187,32 @@
     "reason": "This is another automated job alert from Indeed, which is also unsolicited and does not require any action from Tanmay.",
     "received_at": "Jul 10, 04:09 PM",
     "timestamp": "2026-07-10T17:23:45.333591"
+  },
+  {
+    "id": "19f4d51df875feaf",
+    "subject": "Associate Product Analyst at Sharpsell.ai. 20 more product analyst jobs in Bengaluru, Karnataka",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Indeed.",
+    "received_at": "Jul 10, 06:37 PM",
+    "timestamp": "2026-07-10T18:56:44.380062"
+  },
+  {
+    "id": "19f4d28e742cde0d",
+    "subject": "Business Analyst at Weekday. 19 more data analyst jobs in Bengaluru, Karnataka",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Indeed.",
+    "received_at": "Jul 10, 05:52 PM",
+    "timestamp": "2026-07-10T18:56:44.623738"
+  },
+  {
+    "id": "19f4d14a6533c754",
+    "subject": "You have an invitation",
+    "sender": "Jhalak Mittal <invitations@linkedin.com>",
+    "action": "uncertain",
+    "reason": "This is a LinkedIn connection invitation, which is not junk but does not require immediate action.",
+    "received_at": "Jul 10, 05:30 PM",
+    "timestamp": "2026-07-10T18:56:44.624338"
   }
 ]
