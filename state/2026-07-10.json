@@ -223,5 +223,23 @@
     "reason": "This is an automated job alert from Indeed, which is unsolicited and system-generated.",
     "received_at": "Jul 10, 08:01 PM",
     "timestamp": "2026-07-10T20:24:16.333147"
+  },
+  {
+    "id": "19f4ddc1395258e4",
+    "subject": "Business Analyst - I at TravClan Technology India. 21 more data analyst jobs in Paschim Vihar, Delhi, Delhi",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Indeed.",
+    "received_at": "Jul 10, 09:08 PM",
+    "timestamp": "2026-07-10T21:33:48.311661"
+  },
+  {
+    "id": "19f4dd00a3f934e0",
+    "subject": "New jobs posted from careers.payu.in",
+    "sender": "payupaymen-jobnotification@noreply80.jobs2web.com",
+    "action": "junk",
+    "reason": "This is an automated job notification from PayU Payments.",
+    "received_at": "Jul 10, 08:55 PM",
+    "timestamp": "2026-07-10T21:33:48.627113"
   }
 ]
