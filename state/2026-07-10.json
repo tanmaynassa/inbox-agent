@@ -169,5 +169,23 @@
     "reason": "This is an automated job alert from Indeed, which is unsolicited and system-generated.",
     "received_at": "Jul 10, 03:31 PM",
     "timestamp": "2026-07-10T15:34:44.671495"
+  },
+  {
+    "id": "19f4cdbd6c8f758f",
+    "subject": "SAP FICO Business Analyst at Yoda Technologies Pty Ltd. 29 more product analyst jobs",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Indeed, which is unsolicited and does not require any action from Tanmay.",
+    "received_at": "Jul 10, 04:28 PM",
+    "timestamp": "2026-07-10T17:23:45.075290"
+  },
+  {
+    "id": "19f4cca262bc1913",
+    "subject": "Senior Business Analyst at MasORange. 21 more data analyst jobs in Gurugram, Haryana",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is another automated job alert from Indeed, which is also unsolicited and does not require any action from Tanmay.",
+    "received_at": "Jul 10, 04:09 PM",
+    "timestamp": "2026-07-10T17:23:45.333591"
   }
 ]
