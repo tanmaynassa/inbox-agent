@@ -1,0 +1,20 @@
+[
+  {
+    "id": "19f4a1321faec14f",
+    "subject": "Analyst-Data Analytics at American Express",
+    "sender": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from LinkedIn.",
+    "received_at": "Jul 10, 03:29 AM",
+    "timestamp": "2026-07-10T04:08:27.060936"
+  },
+  {
+    "id": "19f498fe3fe5a05c",
+    "subject": "Tanmay, Recruiters are noticing your profile \ud83d\ude80",
+    "sender": "Naukri <info@naukri.com>",
+    "action": "junk",
+    "reason": "This is an automated notification from Naukri with no specific action required.",
+    "received_at": "Jul 10, 01:06 AM",
+    "timestamp": "2026-07-10T04:08:27.311912"
+  }
+]
