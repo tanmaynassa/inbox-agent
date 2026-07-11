@@ -88,5 +88,14 @@
     "reason": "This is another automated job alert from Indeed.",
     "received_at": "Jul 11, 10:06 AM",
     "timestamp": "2026-07-11T11:06:29.114971"
+  },
+  {
+    "id": "19f5133136433592",
+    "subject": "Product Analyst at Planview Incorporated. 20 more business analyst jobs in Bengaluru, Karnataka",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Indeed, which is unsolicited and system-generated.",
+    "received_at": "Jul 11, 12:42 PM",
+    "timestamp": "2026-07-11T13:47:12.463163"
   }
 ]
