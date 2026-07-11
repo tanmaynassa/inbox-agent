@@ -1,0 +1,29 @@
+[
+  {
+    "id": "19f4f39707bee46e",
+    "subject": "Business Analyst at EY",
+    "sender": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from LinkedIn.",
+    "received_at": "Jul 11, 03:29 AM",
+    "timestamp": "2026-07-11T04:24:03.554391"
+  },
+  {
+    "id": "19f4f1c4b181e334",
+    "subject": "See Anirudh\u2019s and other people\u2019s connections, experience, and more",
+    "sender": "LinkedIn <invitations@linkedin.com>",
+    "action": "uncertain",
+    "reason": "This is a notification about new connections on LinkedIn, but it does not require any action from Tanmay.",
+    "received_at": "Jul 11, 02:58 AM",
+    "timestamp": "2026-07-11T04:24:03.554660"
+  },
+  {
+    "id": "19f4f08426c23e75",
+    "subject": "Product Analyst @ NetMaxims Technologies Pvt. Ltd.",
+    "sender": "Indeed <donotreply@match.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job match notification from Indeed, and it is not a personal message or a scheduled event.",
+    "received_at": "Jul 11, 02:36 AM",
+    "timestamp": "2026-07-11T04:24:03.858294"
+  }
+]
