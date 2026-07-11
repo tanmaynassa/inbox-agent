@@ -34,5 +34,32 @@
     "reason": "This is an automated job alert from LinkedIn, which is unsolicited and system-generated.",
     "received_at": "Jul 11, 05:29 AM",
     "timestamp": "2026-07-11T06:33:09.337650"
+  },
+  {
+    "id": "19f504241e55b2cd",
+    "subject": "Senior Support Analyst at Flexpile Pvt Ltd. 14 more product analyst jobs in Remote",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Indeed, which is unsolicited and system-generated.",
+    "received_at": "Jul 11, 08:19 AM",
+    "timestamp": "2026-07-11T08:24:07.658581"
+  },
+  {
+    "id": "19f503424d1ad755",
+    "subject": "Update: Confirm your application to build industry-ready Data Science skills",
+    "sender": "Isha from Coding Ninjas <hello@careercamp.codingninjas.com>",
+    "action": "uncertain",
+    "reason": "The email is an update about confirming an application to build industry-ready Data Science skills, but it does not require any immediate action from Tanmay.",
+    "received_at": "Jul 11, 08:03 AM",
+    "timestamp": "2026-07-11T08:24:07.658982"
+  },
+  {
+    "id": "19f4fe3593026de9",
+    "subject": "Decision Analyst at Barclays. 20 more product analyst jobs in Noida, Uttar Pradesh",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is another automated job alert from Indeed, which is unsolicited and system-generated.",
+    "received_at": "Jul 11, 06:35 AM",
+    "timestamp": "2026-07-11T08:24:07.960671"
   }
 ]
