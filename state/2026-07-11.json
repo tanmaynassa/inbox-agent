@@ -151,5 +151,23 @@
     "reason": "This is an automated job alert from Indeed, which is unsolicited and system-generated.",
     "received_at": "Jul 11, 07:01 PM",
     "timestamp": "2026-07-11T19:46:13.563171"
+  },
+  {
+    "id": "19f52bc4838f042b",
+    "subject": "Associate Product Analyst at Sharpsell.ai. 11 more associate product manager jobs in Bengaluru, Karnataka",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Indeed.",
+    "received_at": "Jul 11, 07:51 PM",
+    "timestamp": "2026-07-11T20:32:23.669912"
+  },
+  {
+    "id": "19f52b865fde7c3e",
+    "subject": "Japkirat Singh just messaged you",
+    "sender": "Japkirat Singh Lamba via LinkedIn <messaging-digest-noreply@linkedin.com>",
+    "action": "uncertain",
+    "reason": "This is a notification about a new message from Japkirat Singh on LinkedIn, but the content of the message is not provided.",
+    "received_at": "Jul 11, 07:47 PM",
+    "timestamp": "2026-07-11T20:32:23.670439"
   }
 ]
