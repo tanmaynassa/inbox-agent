@@ -97,5 +97,14 @@
     "reason": "This is an automated job alert from Indeed, which is unsolicited and system-generated.",
     "received_at": "Jul 11, 12:42 PM",
     "timestamp": "2026-07-11T13:47:12.463163"
+  },
+  {
+    "id": "19f5192f8fc348b8",
+    "subject": "New jobs similar to Product Analyst at StoneX Group Inc.",
+    "sender": "LinkedIn Job Recommendations <jobs-noreply@linkedin.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from LinkedIn, which is unsolicited and system-generated.",
+    "received_at": "Jul 11, 02:26 PM",
+    "timestamp": "2026-07-11T14:41:08.866077"
   }
 ]
