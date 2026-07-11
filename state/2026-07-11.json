@@ -115,5 +115,14 @@
     "reason": "This is an automated job alert from Indeed, which is unsolicited and system-generated.",
     "received_at": "Jul 11, 03:17 PM",
     "timestamp": "2026-07-11T15:37:10.012564"
+  },
+  {
+    "id": "19f5210227c8f5b6",
+    "subject": "Analyst - Supply Chain Analytics at United Airlines. 21 more data analyst jobs in Gurugram, Haryana",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Indeed, which is unsolicited and system-generated.",
+    "received_at": "Jul 11, 04:43 PM",
+    "timestamp": "2026-07-11T17:34:47.168595"
   }
 ]
