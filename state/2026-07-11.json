@@ -106,5 +106,14 @@
     "reason": "This is an automated job alert from LinkedIn, which is unsolicited and system-generated.",
     "received_at": "Jul 11, 02:26 PM",
     "timestamp": "2026-07-11T14:41:08.866077"
+  },
+  {
+    "id": "19f51c13f3420c4b",
+    "subject": "Business Analyst at Saxo Bank. 29 more product analyst jobs",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Indeed, which is unsolicited and system-generated.",
+    "received_at": "Jul 11, 03:17 PM",
+    "timestamp": "2026-07-11T15:37:10.012564"
   }
 ]
