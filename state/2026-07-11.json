@@ -124,5 +124,23 @@
     "reason": "This is an automated job alert from Indeed, which is unsolicited and system-generated.",
     "received_at": "Jul 11, 04:43 PM",
     "timestamp": "2026-07-11T17:34:47.168595"
+  },
+  {
+    "id": "19f526721a605d6d",
+    "subject": "Analyst - Supply Chain Analytics at United Airlines. 22 more data analyst jobs in Paschim Vihar, Delhi, Delhi",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Indeed, which is unsolicited and system-generated.",
+    "received_at": "Jul 11, 06:18 PM",
+    "timestamp": "2026-07-11T18:31:24.777413"
+  },
+  {
+    "id": "19f52413e3dfedb5",
+    "subject": "Product Analyst at Planview Incorporated. 22 more product analyst jobs in Bengaluru, Karnataka",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Indeed, which is unsolicited and system-generated.",
+    "received_at": "Jul 11, 05:37 PM",
+    "timestamp": "2026-07-11T18:31:25.106288"
   }
 ]
