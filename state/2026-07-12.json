@@ -79,5 +79,14 @@
     "reason": "This is an automated job alert from Indeed.",
     "received_at": "Jul 12, 07:20 AM",
     "timestamp": "2026-07-12T09:15:16.768471"
+  },
+  {
+    "id": "19f55cab5bd7dc0d",
+    "subject": "Business Analyst at Saxo Bank. 20 more product analyst jobs in Gurugram, Haryana",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Indeed, which is unsolicited and system-generated.",
+    "received_at": "Jul 12, 10:06 AM",
+    "timestamp": "2026-07-12T10:45:46.434530"
   }
 ]
