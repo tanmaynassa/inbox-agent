@@ -25,5 +25,14 @@
     "reason": "The email is empty and appears to be a promotional or spam email.",
     "received_at": "Jul 12, 01:55 AM",
     "timestamp": "2026-07-12T04:31:39.600158"
+  },
+  {
+    "id": "19f54cdaccaabf86",
+    "subject": "Business Analyst at GoodSpace AI",
+    "sender": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from LinkedIn, which is unsolicited and system-generated.",
+    "received_at": "Jul 12, 05:29 AM",
+    "timestamp": "2026-07-12T07:09:43.070411"
   }
 ]
