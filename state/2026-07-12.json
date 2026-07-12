@@ -88,5 +88,23 @@
     "reason": "This is an automated job alert from Indeed, which is unsolicited and system-generated.",
     "received_at": "Jul 12, 10:06 AM",
     "timestamp": "2026-07-12T10:45:46.434530"
+  },
+  {
+    "id": "19f56256286f720c",
+    "subject": "10+ Jobs Matching Your Profile",
+    "sender": "\"hirist.com\" <info@jobfeed.hirist.com>",
+    "action": "junk",
+    "reason": "The email is an automated job matching notification with no personal message or request for action.",
+    "received_at": "Jul 12, 11:45 AM",
+    "timestamp": "2026-07-12T11:45:54.657257"
+  },
+  {
+    "id": "19f55fd2c0194cfe",
+    "subject": "Tonight is the finale. Don't miss it | AI Builder Sprint",
+    "sender": "Ankit Shukla - HelloPM <info@hellopm.co>",
+    "action": "important",
+    "reason": "The email is a personal invitation to an event with a specific date and time, and the sender is personally reaching out to Tanmay.",
+    "received_at": "Jul 12, 11:01 AM",
+    "timestamp": "2026-07-12T11:45:54.806097"
   }
 ]
