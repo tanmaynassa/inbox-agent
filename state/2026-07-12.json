@@ -1,0 +1,29 @@
+[
+  {
+    "id": "19f545fd914135fb",
+    "subject": "Specialist, Product Management at Mastercard",
+    "sender": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from LinkedIn.",
+    "received_at": "Jul 12, 03:29 AM",
+    "timestamp": "2026-07-12T04:31:39.344493"
+  },
+  {
+    "id": "19f5442abd195a52",
+    "subject": "See Kshitiz\u2019s and other people\u2019s connections, experience, and more",
+    "sender": "LinkedIn <invitations@linkedin.com>",
+    "action": "uncertain",
+    "reason": "This is a notification about new connections on LinkedIn, but it does not require any action from Tanmay.",
+    "received_at": "Jul 12, 02:58 AM",
+    "timestamp": "2026-07-12T04:31:39.344733"
+  },
+  {
+    "id": "19f54096acd79057",
+    "subject": "Webinar: Saturday night grind mode",
+    "sender": "Team Impacteers <no-reply@impacteersjobs.com>",
+    "action": "junk",
+    "reason": "The email is empty and appears to be a promotional or spam email.",
+    "received_at": "Jul 12, 01:55 AM",
+    "timestamp": "2026-07-12T04:31:39.600158"
+  }
+]
