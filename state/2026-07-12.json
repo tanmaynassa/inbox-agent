@@ -151,5 +151,32 @@
     "reason": "This is yet another automated job alert from Indeed, which is unsolicited and system-generated, and does not require any action from Tanmay.",
     "received_at": "Jul 12, 04:49 PM",
     "timestamp": "2026-07-12T17:28:27.839877"
+  },
+  {
+    "id": "19f57cebb3d3b4e9",
+    "subject": "You have an invitation",
+    "sender": "Vijay Bhushan Singh <invitations@linkedin.com>",
+    "action": "important",
+    "reason": "A human is personally reaching out to Tanmay to join their professional network on LinkedIn",
+    "received_at": "Jul 12, 07:29 PM",
+    "timestamp": "2026-07-12T19:41:56.109490"
+  },
+  {
+    "id": "19f57c5fb196655d",
+    "subject": "Business Analyst at Weekday. 21 more data analyst jobs in Bengaluru, Karnataka",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Indeed with no personal message or action required from Tanmay",
+    "received_at": "Jul 12, 07:20 PM",
+    "timestamp": "2026-07-12T19:41:56.438486"
+  },
+  {
+    "id": "19f57c2fc89cc81c",
+    "subject": "BUSINESS ANALYST L3 at Wipro Limited. 21 more data analyst jobs in Paschim Vihar, Delhi, Delhi",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is another automated job alert from Indeed with no personal message or action required from Tanmay",
+    "received_at": "Jul 12, 07:17 PM",
+    "timestamp": "2026-07-12T19:41:56.800943"
   }
 ]
