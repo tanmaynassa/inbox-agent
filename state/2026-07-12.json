@@ -178,5 +178,14 @@
     "reason": "This is another automated job alert from Indeed with no personal message or action required from Tanmay",
     "received_at": "Jul 12, 07:17 PM",
     "timestamp": "2026-07-12T19:41:56.800943"
+  },
+  {
+    "id": "19f57ec6483b969f",
+    "subject": "Associate Product Analyst at Sharpsell.ai. 13 more associate product manager jobs in Bengaluru, Karnataka",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Indeed, which is unsolicited and system-generated.",
+    "received_at": "Jul 12, 08:02 PM",
+    "timestamp": "2026-07-12T20:27:39.470488"
   }
 ]
