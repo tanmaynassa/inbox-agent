@@ -106,5 +106,23 @@
     "reason": "The email is a personal invitation to an event with a specific date and time, and the sender is personally reaching out to Tanmay.",
     "received_at": "Jul 12, 11:01 AM",
     "timestamp": "2026-07-12T11:45:54.806097"
+  },
+  {
+    "id": "19f567e6fc7b34b3",
+    "subject": "Hardik just messaged you",
+    "sender": "Hardik Panchal via LinkedIn <messaging-digest-noreply@linkedin.com>",
+    "action": "important",
+    "reason": "A human is personally reaching out to Tanmay via LinkedIn",
+    "received_at": "Jul 12, 01:22 PM",
+    "timestamp": "2026-07-12T14:14:31.639824"
+  },
+  {
+    "id": "19f56656466f7928",
+    "subject": "Business Analyst at Weekday. 21 more business analyst jobs in Bengaluru, Karnataka",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Indeed",
+    "received_at": "Jul 12, 12:55 PM",
+    "timestamp": "2026-07-12T14:14:31.890843"
   }
 ]
