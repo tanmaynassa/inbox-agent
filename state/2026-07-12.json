@@ -34,5 +34,50 @@
     "reason": "This is an automated job alert from LinkedIn, which is unsolicited and system-generated.",
     "received_at": "Jul 12, 05:29 AM",
     "timestamp": "2026-07-12T07:09:43.070411"
+  },
+  {
+    "id": "19f559ba9417524f",
+    "subject": "Business Analyst at Weekday. 21 more data analyst jobs in Bangalore City, Bengaluru, Karnataka",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Indeed.",
+    "received_at": "Jul 12, 09:14 AM",
+    "timestamp": "2026-07-12T09:15:15.871930"
+  },
+  {
+    "id": "19f55929ea5c87d8",
+    "subject": "Business Analyst at Saxo Bank. 29 more product analyst jobs in India",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Indeed.",
+    "received_at": "Jul 12, 09:04 AM",
+    "timestamp": "2026-07-12T09:15:16.188903"
+  },
+  {
+    "id": "19f556cd71b558d1",
+    "subject": "Senior Support Analyst at Flexpile Pvt Ltd. 11 more product analyst jobs in Remote",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Indeed.",
+    "received_at": "Jul 12, 08:23 AM",
+    "timestamp": "2026-07-12T09:15:16.484596"
+  },
+  {
+    "id": "19f553b87ad8ca4f",
+    "subject": "Rahul  accepted your invitation, explore their network",
+    "sender": "Rahul Gupta via LinkedIn <invitations@linkedin.com>",
+    "action": "uncertain",
+    "reason": "This is a LinkedIn connection notification that does not require any action but is not spam.",
+    "received_at": "Jul 12, 07:29 AM",
+    "timestamp": "2026-07-12T09:15:16.485053"
+  },
+  {
+    "id": "19f5532cb2979bfb",
+    "subject": "Business Analyst - Fintech at Wecredit. 16 more product analyst jobs in Noida, Uttar Pradesh",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Indeed.",
+    "received_at": "Jul 12, 07:20 AM",
+    "timestamp": "2026-07-12T09:15:16.768471"
   }
 ]
