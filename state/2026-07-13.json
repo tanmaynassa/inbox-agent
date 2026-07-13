@@ -223,5 +223,23 @@
     "reason": "The email requires Tanmay to review and potentially update his email tracking settings before specific deadlines.",
     "received_at": "Jul 13, 06:31 PM",
     "timestamp": "2026-07-13T19:06:32.870514"
+  },
+  {
+    "id": "19f5d22926cec6cb",
+    "subject": "Product Analyst at Apna. 20 more data analyst jobs in Bengaluru, Karnataka",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Indeed.",
+    "received_at": "Jul 13, 08:19 PM",
+    "timestamp": "2026-07-13T20:32:48.072026"
+  },
+  {
+    "id": "19f5d07e1f5fd405",
+    "subject": "Analyst-Data Analytics at American Express. 20 more data analyst jobs in Paschim Vihar, Delhi, Delhi",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Indeed.",
+    "received_at": "Jul 13, 07:50 PM",
+    "timestamp": "2026-07-13T20:32:48.398693"
   }
 ]
