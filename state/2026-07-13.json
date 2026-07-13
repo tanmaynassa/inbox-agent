@@ -16,5 +16,50 @@
     "reason": "This is a notification about new connections on LinkedIn, but it does not require any action from Tanmay.",
     "received_at": "Jul 13, 02:58 AM",
     "timestamp": "2026-07-13T03:59:25.411582"
+  },
+  {
+    "id": "19f5a61ffa444e46",
+    "subject": "Business Analyst at AirBills",
+    "sender": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from LinkedIn.",
+    "received_at": "Jul 13, 07:29 AM",
+    "timestamp": "2026-07-13T07:31:05.401366"
+  },
+  {
+    "id": "19f5a4c8971b90bf",
+    "subject": "Discover Naukri Pro - your all-in-one tool to land your next job!",
+    "sender": "Naukri <info@naukri.com>",
+    "action": "junk",
+    "reason": "This is a promotional email from Naukri.",
+    "received_at": "Jul 13, 07:06 AM",
+    "timestamp": "2026-07-13T07:31:05.720949"
+  },
+  {
+    "id": "19f5a2bf2c227a39",
+    "subject": "Thank you for considering Citi!",
+    "sender": "Citi Human Resources <citi@myworkday.com>",
+    "action": "uncertain",
+    "reason": "This is an automated acknowledgment from Citi Human Resources with no next step mentioned.",
+    "received_at": "Jul 13, 06:30 AM",
+    "timestamp": "2026-07-13T07:31:05.721346"
+  },
+  {
+    "id": "19f5a191b903ba0f",
+    "subject": "Status Update: MetLife's Senior Data Analyst I  - Job ID: 16768 opening has been filled",
+    "sender": "MetLife Global Talent Acquisition <recruiting@metlifecareers.com>",
+    "action": "uncertain",
+    "reason": "This is an update from MetLife regarding the status of a job application, but it does not require any action from Tanmay.",
+    "received_at": "Jul 13, 06:10 AM",
+    "timestamp": "2026-07-13T07:31:05.721762"
+  },
+  {
+    "id": "19f59f408b185601",
+    "subject": "Business Analyst at AirBills",
+    "sender": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+    "action": "junk",
+    "reason": "This is another automated job alert from LinkedIn.",
+    "received_at": "Jul 13, 05:29 AM",
+    "timestamp": "2026-07-13T07:31:06.011878"
   }
 ]
