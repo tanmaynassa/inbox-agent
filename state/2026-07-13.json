@@ -178,5 +178,41 @@
     "reason": "The email is an automated job alert from Indeed with multiple job listings.",
     "received_at": "Jul 13, 01:11 PM",
     "timestamp": "2026-07-13T15:49:20.398482"
+  },
+  {
+    "id": "19f5c8dd204acdfd",
+    "subject": "Product discovery & user delight",
+    "sender": "Mind the Product <team@mindtheproduct.com>",
+    "action": "uncertain",
+    "reason": "The email is a newsletter with informational content and does not require any action from Tanmay.",
+    "received_at": "Jul 13, 05:33 PM",
+    "timestamp": "2026-07-13T17:46:17.866470"
+  },
+  {
+    "id": "19f5c70380ae3770",
+    "subject": "Analyst-Data Analytics at American Express. 20 more data analyst jobs in Gurugram, Haryana",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "The email is an automated job alert with no personal message or request for action.",
+    "received_at": "Jul 13, 05:04 PM",
+    "timestamp": "2026-07-13T17:46:18.236892"
+  },
+  {
+    "id": "19f5c4da2b0ffa2f",
+    "subject": "Product Analyst at Apna. 21 more product analyst jobs in Bengaluru, Karnataka",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "The email is an automated job alert with no personal message or request for action.",
+    "received_at": "Jul 13, 04:26 PM",
+    "timestamp": "2026-07-13T17:46:18.518311"
+  },
+  {
+    "id": "19f5c34599e88552",
+    "subject": "Business Analyst at Codinix INC. 27 more product analyst jobs",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "The email is an automated job alert with no personal message or request for action.",
+    "received_at": "Jul 13, 03:59 PM",
+    "timestamp": "2026-07-13T17:46:18.780653"
   }
 ]
