@@ -214,5 +214,14 @@
     "reason": "The email is an automated job alert with no personal message or request for action.",
     "received_at": "Jul 13, 03:59 PM",
     "timestamp": "2026-07-13T17:46:18.780653"
+  },
+  {
+    "id": "19f5cbfd4d3ccfe5",
+    "subject": "New France & Italy consent rules for email tracking",
+    "sender": "Apollo <support@apollo.io>",
+    "action": "important",
+    "reason": "The email requires Tanmay to review and potentially update his email tracking settings before specific deadlines.",
+    "received_at": "Jul 13, 06:31 PM",
+    "timestamp": "2026-07-13T19:06:32.870514"
   }
 ]
