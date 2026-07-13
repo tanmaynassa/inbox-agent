@@ -61,5 +61,59 @@
     "reason": "This is another automated job alert from LinkedIn.",
     "received_at": "Jul 13, 05:29 AM",
     "timestamp": "2026-07-13T07:31:06.011878"
+  },
+  {
+    "id": "19f5ad594b60f7a5",
+    "subject": "Business Analyst - Credit, AR & Process Transformation at Arient Solutions. 20 more data analyst jobs in Bangalore City, Bengaluru, Karnataka",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Indeed.",
+    "received_at": "Jul 13, 09:36 AM",
+    "timestamp": "2026-07-13T10:40:31.928957"
+  },
+  {
+    "id": "19f5ad2d7ac2f2ff",
+    "subject": "Job | Lead Analyst at MiQ (Bangalore)",
+    "sender": "MiQ Careers <noreply@instahyre.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Instahyre.",
+    "received_at": "Jul 13, 09:33 AM",
+    "timestamp": "2026-07-13T10:40:32.220991"
+  },
+  {
+    "id": "19f5acfc200f32d1",
+    "subject": "1970764-Lead Assistant Manager at EXL",
+    "sender": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from LinkedIn.",
+    "received_at": "Jul 13, 09:29 AM",
+    "timestamp": "2026-07-13T10:40:32.496951"
+  },
+  {
+    "id": "19f5aac04186fde5",
+    "subject": "PMO-HR Separation(Contract) 1 at Reckitt. 20 more product analyst jobs in Gurugram, Haryana",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Indeed.",
+    "received_at": "Jul 13, 08:50 AM",
+    "timestamp": "2026-07-13T10:40:32.798807"
+  },
+  {
+    "id": "19f5a86d799dade6",
+    "subject": "Business Analyst - Fintech at Wecredit. 10 more product analyst jobs in Noida, Uttar Pradesh",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Indeed.",
+    "received_at": "Jul 13, 08:10 AM",
+    "timestamp": "2026-07-13T10:40:33.087681"
+  },
+  {
+    "id": "19f5a8498ef5c685",
+    "subject": "New Jobs Posted from Firstsource",
+    "sender": "Jobalerts@noreply44.jobs2web.com",
+    "action": "junk",
+    "reason": "This is an automated job alert from Firstsource.",
+    "received_at": "Jul 13, 08:07 AM",
+    "timestamp": "2026-07-13T10:40:33.402319"
   }
 ]
