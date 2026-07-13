@@ -1,0 +1,20 @@
+[
+  {
+    "id": "19f59862a679e3d6",
+    "subject": "Business Analyst at AirBills",
+    "sender": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from LinkedIn.",
+    "received_at": "Jul 13, 03:29 AM",
+    "timestamp": "2026-07-13T03:59:25.411325"
+  },
+  {
+    "id": "19f5969046d4aaf4",
+    "subject": "See Lubhani\u2019s and other people\u2019s connections, experience, and more",
+    "sender": "LinkedIn <invitations@linkedin.com>",
+    "action": "uncertain",
+    "reason": "This is a notification about new connections on LinkedIn, but it does not require any action from Tanmay.",
+    "received_at": "Jul 13, 02:58 AM",
+    "timestamp": "2026-07-13T03:59:25.411582"
+  }
+]
