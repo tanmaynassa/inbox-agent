@@ -160,5 +160,23 @@
     "reason": "The email is an automated job alert with no personal message or action required.",
     "received_at": "Jul 13, 10:48 AM",
     "timestamp": "2026-07-13T13:04:24.160790"
+  },
+  {
+    "id": "19f5c04b42a859e4",
+    "subject": "Crush your quota! Unlock full access",
+    "sender": "Apollo <support@apollo.io>",
+    "action": "junk",
+    "reason": "The email is a promotional message from Apollo to upgrade to a paid plan.",
+    "received_at": "Jul 13, 03:07 PM",
+    "timestamp": "2026-07-13T15:49:20.091990"
+  },
+  {
+    "id": "19f5b9aa19da1c46",
+    "subject": "Business Analyst - Credit, AR & Process Transformation at Arient Solutions. 20 more business analyst jobs in Bengaluru, Karnataka",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "The email is an automated job alert from Indeed with multiple job listings.",
+    "received_at": "Jul 13, 01:11 PM",
+    "timestamp": "2026-07-13T15:49:20.398482"
   }
 ]
