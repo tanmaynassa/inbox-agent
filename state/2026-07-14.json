@@ -1,0 +1,29 @@
+[
+  {
+    "id": "19f5eac88c3c0a9f",
+    "subject": "Business Analyst at GoodSpace AI",
+    "sender": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from LinkedIn.",
+    "received_at": "Jul 14, 03:29 AM",
+    "timestamp": "2026-07-14T03:54:53.319215"
+  },
+  {
+    "id": "19f5e7891882ac39",
+    "subject": "Hyperion FCCS - Analyst @ Deloitte",
+    "sender": "Indeed <donotreply@match.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job match from Indeed.",
+    "received_at": "Jul 14, 02:33 AM",
+    "timestamp": "2026-07-14T03:54:53.562283"
+  },
+  {
+    "id": "19f5e235258c9bf4",
+    "subject": "Learning Spotlight: Start Speaking a New Language",
+    "sender": "LinkedIn <messages-noreply@linkedin.com>",
+    "action": "junk",
+    "reason": "This is a promotional email from LinkedIn about language courses.",
+    "received_at": "Jul 14, 12:59 AM",
+    "timestamp": "2026-07-14T03:54:53.781705"
+  }
+]
