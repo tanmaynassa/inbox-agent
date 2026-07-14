@@ -61,5 +61,32 @@
     "reason": "The email body is empty, so it's unclear what action is required, if any.",
     "received_at": "Jul 14, 04:19 AM",
     "timestamp": "2026-07-14T06:07:59.379796"
+  },
+  {
+    "id": "19f5faa8f94e29a5",
+    "subject": "BUSINESS ANALYST L3 at Wipro Limited. 20 more product analyst jobs in Gurugram, Haryana",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Indeed, which is unsolicited and does not require any action from Tanmay.",
+    "received_at": "Jul 14, 08:07 AM",
+    "timestamp": "2026-07-14T08:26:34.628518"
+  },
+  {
+    "id": "19f5f9141669a940",
+    "subject": "New job opportunities at American Express",
+    "sender": "Amex Careers <careers@recruitment.americanexpress.com>",
+    "action": "uncertain",
+    "reason": "The email from Amex Careers is not fully provided, but based on the available content, it does not seem to require any immediate action from Tanmay, and its purpose is unclear.",
+    "received_at": "Jul 14, 07:39 AM",
+    "timestamp": "2026-07-14T08:26:34.628784"
+  },
+  {
+    "id": "19f5f883ead57ad0",
+    "subject": "Product Analyst at Payoneer",
+    "sender": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from LinkedIn, which is unsolicited and does not require any action from Tanmay.",
+    "received_at": "Jul 14, 07:29 AM",
+    "timestamp": "2026-07-14T08:26:34.902207"
   }
 ]
