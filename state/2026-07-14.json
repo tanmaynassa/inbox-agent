@@ -88,5 +88,41 @@
     "reason": "This is an automated job alert from LinkedIn, which is unsolicited and does not require any action from Tanmay.",
     "received_at": "Jul 14, 07:29 AM",
     "timestamp": "2026-07-14T08:26:34.902207"
+  },
+  {
+    "id": "19f601d485225b92",
+    "subject": "Business Analyst - Credit, AR & Process Transformation at Arient Solutions. 19 more data analyst jobs in Bangalore City, Bengaluru, Karnataka",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Indeed.",
+    "received_at": "Jul 14, 10:12 AM",
+    "timestamp": "2026-07-14T10:17:10.863564"
+  },
+  {
+    "id": "19f600940d44625e",
+    "subject": "Product Analyst at Aftershoot \u2013 Explore the Role Details",
+    "sender": "Gitika Sharma <gitika.s@aftershoot.com>",
+    "action": "important",
+    "reason": "A human, Gitika Sharma, is personally reaching out to Tanmay regarding a job opportunity.",
+    "received_at": "Jul 14, 09:50 AM",
+    "timestamp": "2026-07-14T10:17:11.079576"
+  },
+  {
+    "id": "19f5ff6203b491e8",
+    "subject": "Product Analyst at Payoneer",
+    "sender": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from LinkedIn.",
+    "received_at": "Jul 14, 09:29 AM",
+    "timestamp": "2026-07-14T10:17:11.408871"
+  },
+  {
+    "id": "19f5fdea93f9c95e",
+    "subject": "SAP FICO Business Analyst at Yoda Technologies Pty Ltd. 20 more product analyst jobs in Remote",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Indeed.",
+    "received_at": "Jul 14, 09:04 AM",
+    "timestamp": "2026-07-14T10:17:11.721546"
   }
 ]
