@@ -232,5 +232,32 @@
     "reason": "Tanmay needs to provide the required details and documents through the Google Form link",
     "received_at": "Jul 14, 04:30 PM",
     "timestamp": "2026-07-14T17:32:24.658284"
+  },
+  {
+    "id": "19f61d497a7ec323",
+    "subject": "Business Analyst at Codinix INC. 25 more product analyst jobs",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Indeed, which is unsolicited and does not require any action from Tanmay.",
+    "received_at": "Jul 14, 06:12 PM",
+    "timestamp": "2026-07-14T18:44:08.963843"
+  },
+  {
+    "id": "19f61cce3797a901",
+    "subject": "Get more from your GTM stack this summer",
+    "sender": "Apollo <hello@mail.apollo.io>",
+    "action": "junk",
+    "reason": "This is a promotional email from Apollo, which is trying to sell its product and does not require any action from Tanmay.",
+    "received_at": "Jul 14, 06:04 PM",
+    "timestamp": "2026-07-14T18:44:09.246232"
+  },
+  {
+    "id": "19f61ba78d0fcc09",
+    "subject": "Business Analyst - Credit, AR & Process Transformation at Arient Solutions. 18 more data analyst jobs in Bengaluru, Karnataka",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Indeed, which is unsolicited and does not require any action from Tanmay.",
+    "received_at": "Jul 14, 05:43 PM",
+    "timestamp": "2026-07-14T18:44:09.530223"
   }
 ]
