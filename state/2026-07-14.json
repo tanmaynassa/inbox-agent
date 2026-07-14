@@ -268,5 +268,14 @@
     "reason": "This is an automated job alert from Naukri Alerts.",
     "received_at": "Jul 14, 07:36 PM",
     "timestamp": "2026-07-14T19:57:40.625935"
+  },
+  {
+    "id": "19f6264a8236890e",
+    "subject": "Analyst-Data Analytics at American Express. 20 more data analyst jobs in Paschim Vihar, Delhi, Delhi",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Indeed, which is unsolicited and system-generated.",
+    "received_at": "Jul 14, 08:49 PM",
+    "timestamp": "2026-07-14T21:03:01.067933"
   }
 ]
