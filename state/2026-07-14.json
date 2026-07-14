@@ -214,5 +214,23 @@
     "reason": "This email is an automated notification about the status of a job application, but it does not provide any next steps or require any action from Tanmay.",
     "received_at": "Jul 14, 03:20 PM",
     "timestamp": "2026-07-14T16:05:13.475592"
+  },
+  {
+    "id": "19f61a03c510d34c",
+    "subject": "Re: Required Details",
+    "sender": "Tanmay Nassa <tanmay.nassa.work@gmail.com>",
+    "action": "important",
+    "reason": "Tanmay needs to follow up on the email conversation with Leena Ola",
+    "received_at": "Jul 14, 05:15 PM",
+    "timestamp": "2026-07-14T17:32:24.465337"
+  },
+  {
+    "id": "19f6177526ef167f",
+    "subject": "Required Details",
+    "sender": "Leena Ola <hr@unifyapps.com>",
+    "action": "important",
+    "reason": "Tanmay needs to provide the required details and documents through the Google Form link",
+    "received_at": "Jul 14, 04:30 PM",
+    "timestamp": "2026-07-14T17:32:24.658284"
   }
 ]
