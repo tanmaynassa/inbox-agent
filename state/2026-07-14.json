@@ -25,5 +25,41 @@
     "reason": "This is a promotional email from LinkedIn about language courses.",
     "received_at": "Jul 14, 12:59 AM",
     "timestamp": "2026-07-14T03:54:53.781705"
+  },
+  {
+    "id": "19f5f300d8d19309",
+    "subject": "Business Analyst at Codinix INC. 15 more product analyst jobs in Noida, Uttar Pradesh",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Indeed.",
+    "received_at": "Jul 14, 05:53 AM",
+    "timestamp": "2026-07-14T06:07:59.080421"
+  },
+  {
+    "id": "19f5f1a663c8dacb",
+    "subject": "Product Analyst at apna Advantage",
+    "sender": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from LinkedIn.",
+    "received_at": "Jul 14, 05:29 AM",
+    "timestamp": "2026-07-14T06:07:59.379003"
+  },
+  {
+    "id": "19f5ef94c78fac4b",
+    "subject": "Full Recording + Resources - The AI Builder Sprint | HelloPM",
+    "sender": "Ankit Shukla - HelloPM <info@hellopm.co>",
+    "action": "uncertain",
+    "reason": "This email provides resources and recordings from an event, but does not require any action from Tanmay.",
+    "received_at": "Jul 14, 04:53 AM",
+    "timestamp": "2026-07-14T06:07:59.379346"
+  },
+  {
+    "id": "19f5eda3653fdb35",
+    "subject": "Update: Confirm your application to learn how GenAI is used in industry",
+    "sender": "Coding Ninjas <alerts@courses.codingninjas.com>",
+    "action": "uncertain",
+    "reason": "The email body is empty, so it's unclear what action is required, if any.",
+    "received_at": "Jul 14, 04:19 AM",
+    "timestamp": "2026-07-14T06:07:59.379796"
   }
 ]
