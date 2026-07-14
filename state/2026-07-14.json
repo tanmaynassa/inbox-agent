@@ -196,5 +196,23 @@
     "reason": "This email appears to be from Tanmay himself, and it contains attachments of his offer letter and payslips, which may require action or review.",
     "received_at": "Jul 14, 01:25 PM",
     "timestamp": "2026-07-14T14:49:32.731907"
+  },
+  {
+    "id": "19f615717e9300a4",
+    "subject": "Product Analyst at Apna. 21 more product analyst jobs in Bengaluru, Karnataka",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Indeed, which is unsolicited and system-generated.",
+    "received_at": "Jul 14, 03:55 PM",
+    "timestamp": "2026-07-14T16:05:13.474964"
+  },
+  {
+    "id": "19f61378a2fac7bf",
+    "subject": "Status of your job application has changed",
+    "sender": "Naukri <info@naukri.com>",
+    "action": "uncertain",
+    "reason": "This email is an automated notification about the status of a job application, but it does not provide any next steps or require any action from Tanmay.",
+    "received_at": "Jul 14, 03:20 PM",
+    "timestamp": "2026-07-14T16:05:13.475592"
   }
 ]
