@@ -151,5 +151,50 @@
     "reason": "This is an automated job alert from Indeed, which is unsolicited and doesn't require any action from Tanmay.",
     "received_at": "Jul 14, 10:40 AM",
     "timestamp": "2026-07-14T11:48:46.615803"
+  },
+  {
+    "id": "19f610602af5ad39",
+    "subject": "Analyst-Data Analytics at American Express. 19 more data analyst jobs in Gurugram, Haryana",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Indeed, which is unsolicited and does not require any action from Tanmay.",
+    "received_at": "Jul 14, 02:26 PM",
+    "timestamp": "2026-07-14T14:49:32.220528"
+  },
+  {
+    "id": "19f60fd919270bdc",
+    "subject": "You spoke, and we shipped. Here's what's new.",
+    "sender": "Mind the Product <valeria@mindtheproduct.com>",
+    "action": "uncertain",
+    "reason": "This email is an update from Mind the Product, but it does not require any action from Tanmay, and its purpose is informational.",
+    "received_at": "Jul 14, 02:08 PM",
+    "timestamp": "2026-07-14T14:49:32.221084"
+  },
+  {
+    "id": "19f60eae17e5cbb5",
+    "subject": "Business Analyst - Credit, AR & Process Transformation at Arient Solutions. 19 more business analyst jobs in Bengaluru, Karnataka",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is another automated job alert from Indeed, which is unsolicited and does not require any action from Tanmay.",
+    "received_at": "Jul 14, 01:57 PM",
+    "timestamp": "2026-07-14T14:49:32.555738"
+  },
+  {
+    "id": "19f60d1d92518f4e",
+    "subject": "Sezal accepted your invitation, explore their network",
+    "sender": "Sezal Mittal via LinkedIn <invitations@linkedin.com>",
+    "action": "uncertain",
+    "reason": "This email is a notification from LinkedIn about someone accepting Tanmay's invitation, but it does not require any action from him.",
+    "received_at": "Jul 14, 01:29 PM",
+    "timestamp": "2026-07-14T14:49:32.556298"
+  },
+  {
+    "id": "19f60cd6b2c258ec",
+    "subject": "offer letter and payslips: Tanmay Nassa",
+    "sender": "Tanmay Nassa <tanmay.nassa.work@gmail.com>",
+    "action": "important",
+    "reason": "This email appears to be from Tanmay himself, and it contains attachments of his offer letter and payslips, which may require action or review.",
+    "received_at": "Jul 14, 01:25 PM",
+    "timestamp": "2026-07-14T14:49:32.731907"
   }
 ]
