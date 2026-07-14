@@ -277,5 +277,14 @@
     "reason": "This is an automated job alert from Indeed, which is unsolicited and system-generated.",
     "received_at": "Jul 14, 08:49 PM",
     "timestamp": "2026-07-14T21:03:01.067933"
+  },
+  {
+    "id": "19f62856c513d396",
+    "subject": "Business Analyst at Cognizant. 14 more associate product manager jobs in Bengaluru, Karnataka",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Indeed, which is unsolicited and system-generated.",
+    "received_at": "Jul 14, 09:25 PM",
+    "timestamp": "2026-07-14T22:08:43.782329"
   }
 ]
