@@ -16,5 +16,23 @@
     "reason": "This is an automated job alert from Honeywell's career site.",
     "received_at": "Jul 15, 01:01 AM",
     "timestamp": "2026-07-15T03:27:18.603955"
+  },
+  {
+    "id": "19f6440ed8e1b23d",
+    "subject": "Business Intelligence Analyst at AirBills",
+    "sender": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from LinkedIn.",
+    "received_at": "Jul 15, 05:30 AM",
+    "timestamp": "2026-07-15T05:53:42.938942"
+  },
+  {
+    "id": "19f63d2ee330747b",
+    "subject": "Analyst-Data Analytics at American Express",
+    "sender": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from LinkedIn.",
+    "received_at": "Jul 15, 03:29 AM",
+    "timestamp": "2026-07-15T05:53:43.219021"
   }
 ]
