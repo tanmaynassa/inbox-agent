@@ -1,0 +1,20 @@
+[
+  {
+    "id": "19f636dc91a4cb64",
+    "subject": "Tanmay Nassa, Top companies are hiring on Naukri right now!",
+    "sender": "Naukri <info@naukri.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Naukri.",
+    "received_at": "Jul 15, 01:33 AM",
+    "timestamp": "2026-07-15T03:27:18.308409"
+  },
+  {
+    "id": "19f634afee6a7f3c",
+    "subject": "New job opportunities at Honeywell",
+    "sender": "Human Resources <noreply@honeywell.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert from Honeywell's career site.",
+    "received_at": "Jul 15, 01:01 AM",
+    "timestamp": "2026-07-15T03:27:18.603955"
+  }
+]
