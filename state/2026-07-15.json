@@ -106,5 +106,32 @@
     "reason": "This is an automated job alert from Indeed.",
     "received_at": "Jul 15, 08:38 AM",
     "timestamp": "2026-07-15T09:59:25.699749"
+  },
+  {
+    "id": "19f658a57a934d73",
+    "subject": "Simran accepted your invitation, explore their network",
+    "sender": "Simran Sappal via LinkedIn <invitations@linkedin.com>",
+    "action": "uncertain",
+    "reason": "This is a LinkedIn connection notification which is informational and doesn't require any action.",
+    "received_at": "Jul 15, 11:29 AM",
+    "timestamp": "2026-07-15T11:42:16.231599"
+  },
+  {
+    "id": "19f6549062f0a4ca",
+    "subject": "2 fresh opportunities. Maybe there is one just for you?",
+    "sender": "Cutshort Team <notify@cutshort.io>",
+    "action": "junk",
+    "reason": "This is an automated job alert email with no personal message or request for action.",
+    "received_at": "Jul 15, 10:18 AM",
+    "timestamp": "2026-07-15T11:42:16.595411"
+  },
+  {
+    "id": "19f653fb577f847b",
+    "subject": "Product Analyst at Apna. 20 more data analyst jobs in Bangalore City, Bengaluru, Karnataka",
+    "sender": "Indeed <donotreply@jobalert.indeed.com>",
+    "action": "junk",
+    "reason": "This is an automated job alert email with no personal message or request for action.",
+    "received_at": "Jul 15, 10:08 AM",
+    "timestamp": "2026-07-15T11:42:16.917033"
   }
 ]
